@@ -16,7 +16,7 @@
     "coldbox-elixir": "^4.0.5",
     "font-awesome-sass": "^4.7.0",
     "webpack": "^5.90.0",
-    "webpack-cli": "^4.10.0"
+    "webpack-cli": "^7.0.0"
   },
   "devDependencies": {
     "sass": "^1.52.3",
